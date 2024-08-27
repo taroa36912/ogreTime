@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "dorobo-.sln"
+    "dotnet.defaultSolution": "ogreTime.sln"
 }

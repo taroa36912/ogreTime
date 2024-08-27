@@ -183,7 +183,7 @@ MonoBehaviour:
   m_text: "\u30B9\u30C6\u30FC\u30B8\uFF11\u3078"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3deac9ccfad9f9c48be1a59b15aee5bd, type: 2}
-  m_sharedMaterial: {fileID: -3795720829215893087, guid: 3deac9ccfad9f9c48be1a59b15aee5bd, type: 2}
+  m_sharedMaterial: {fileID: 178398409370880958, guid: 3deac9ccfad9f9c48be1a59b15aee5bd, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -388,8 +388,8 @@ Transform:
   m_GameObject: {fileID: 616542035}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 600.99884, y: 303, z: -10}
-  m_LocalScale: {x: 0.9, y: 0.75, z: 1}
+  m_LocalPosition: {x: 378.0786, y: 112.9929, z: -10}
+  m_LocalScale: {x: 1.4460995, y: 1.346039, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -603,8 +603,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14.2461, y: -138.123}
-  m_SizeDelta: {x: 451.9055, y: 119.2493}
+  m_AnchoredPosition: {x: -27.938599, y: -249.5605}
+  m_SizeDelta: {x: 726.1617, y: 214.0071}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &877164620
 MonoBehaviour:
@@ -747,8 +747,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0.000015258789}
-  m_SizeDelta: {x: 1203, y: 597}
+  m_AnchoredPosition: {x: -5.0467, y: -1.6822}
+  m_SizeDelta: {x: 1933.0867, y: 1071.3882}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1160650474
 MonoBehaviour:
@@ -822,8 +822,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -289, y: 186}
-  m_SizeDelta: {x: 305.6862, y: 123.4279}
+  m_AnchoredPosition: {x: -311, y: 332.11713}
+  m_SizeDelta: {x: 491.2035, y: 221.5061}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2068626811
 MonoBehaviour:
@@ -848,7 +848,7 @@ MonoBehaviour:
   m_text: "\u30B2\u30FC\u30E0\u3092\u958B\u59CB\u3057\u307E\u3059\u304B\uFF1F"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3deac9ccfad9f9c48be1a59b15aee5bd, type: 2}
-  m_sharedMaterial: {fileID: -3795720829215893087, guid: 3deac9ccfad9f9c48be1a59b15aee5bd, type: 2}
+  m_sharedMaterial: {fileID: 178398409370880958, guid: 3deac9ccfad9f9c48be1a59b15aee5bd, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -879,7 +879,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -911,7 +911,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: -606.7921, w: -23.06128}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &2068626812
